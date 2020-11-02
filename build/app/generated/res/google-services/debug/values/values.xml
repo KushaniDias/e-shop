@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">865484550172-oeh8mfmrmrqrj1rb54rmu535k2ro3qkp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://e-shop-31019.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">865484550172</string>
+    <string name="google_api_key" translatable="false">AIzaSyCWyeN8d9v-Nr7H0Ms1ZFQ4TaIjIf7w2pc</string>
+    <string name="google_app_id" translatable="false">1:865484550172:android:656b1627b9820cb4dcafd9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCWyeN8d9v-Nr7H0Ms1ZFQ4TaIjIf7w2pc</string>
+    <string name="google_storage_bucket" translatable="false">e-shop-31019.appspot.com</string>
+    <string name="project_id" translatable="false">e-shop-31019</string>
+</resources>

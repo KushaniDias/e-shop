@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "865484550172",
+    "firebase_url": "https://e-shop-31019.firebaseio.com",
+    "project_id": "e-shop-31019",
+    "storage_bucket": "e-shop-31019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865484550172:android:656b1627b9820cb4dcafd9",
+        "android_client_info": {
+          "package_name": "com.kushani.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865484550172-oeh8mfmrmrqrj1rb54rmu535k2ro3qkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWyeN8d9v-Nr7H0Ms1ZFQ4TaIjIf7w2pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865484550172-oeh8mfmrmrqrj1rb54rmu535k2ro3qkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
